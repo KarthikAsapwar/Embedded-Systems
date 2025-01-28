@@ -43,7 +43,7 @@
 
       
     
-  <a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/1db77bf6e1d190486a910e12aaec24b06f994a56/Project-1.pdf">PROJECT-1</a> : **Gesture recognition interprets hand signals, converting them into meaningful messages.Voice conversion enables audible feedback for users with speech impairments.Integrated hardware provides real-time interaction, enhancing communication and safety.**  
+  <a href="https://github.com/KarthikAsapwar/Embedded-Systems/blob/c3db84e2cb3376fb488d230f42c8162053b6de55/Project-1.pdf">PROJECT-1</a> : **Gesture recognition interprets hand signals, converting them into meaningful messages.Voice conversion enables audible feedback for users with speech impairments.Integrated hardware provides real-time interaction, enhancing communication and safety.**  
 
 
 
