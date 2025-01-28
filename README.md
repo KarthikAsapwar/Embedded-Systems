@@ -4,7 +4,7 @@
   <img width="524" alt="image" src="https://github.com/user-attachments/assets/98a83f08-be79-4100-8ec5-8bf9837b1de7" />   
   
 
-<a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/54921c766310a2a2dc308140ddd6e5342cc18871/LAB1.pdf">LAB-1</a> : **This lab demonstrates configuring GPIO pin PA5 on the NUCLEO-F411RE board as an output using STM32CubeIDE to control an LED. The LED blinks at specified intervals, showcasing GPIO pin control and peripheral configuration.** 
+(https://github.com/KarthikAsapwar/Embedded-Systems/blob/458d22ec348648ee3edc5576d880e3343164caab/LAB-1.pdf)**This lab demonstrates configuring GPIO pin PA5 on the NUCLEO-F411RE board as an output using STM32CubeIDE to control an LED. The LED blinks at specified intervals, showcasing GPIO pin control and peripheral configuration.** 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
